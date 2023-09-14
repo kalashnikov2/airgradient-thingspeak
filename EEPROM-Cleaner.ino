@@ -3,7 +3,7 @@
                        EEPROM-Cleaner v1.2.0
 
                        Copyright (c) 2017 Helmut Stult (schinfo)
-
+https://www.esp8266.com/viewtopic.php?f=24&t=14710
  ********************************************************************************************/
 
 #include <EEPROM.h>
