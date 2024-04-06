@@ -7,7 +7,7 @@ demo  https://thingspeak.com/channels/409668
 
 
 
-thingspeak  its limited to 8 channels of data, so pm03PCount and  wifi rssid   its not send.
+thingspeak  its limited to 8 channels of data, so pm0.3 Count and  wifi rssid   its not send.
 ```
   ThingSpeak.setField(1, Co2);
   ThingSpeak.setField(2, pm01);
